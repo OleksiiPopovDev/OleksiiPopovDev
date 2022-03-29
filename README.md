@@ -1,7 +1,7 @@
 
 <div style="float: left">
 
-##Oleksii Popov
+## Oleksii Popov
 
 </div>
 <div style="float: right; text-align: right">

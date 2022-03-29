@@ -8,8 +8,6 @@
 	<a href="https://github.com/PopovAleksey">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=PopovAleksey&theme=prussian&hide_border=true&stroke=0000"/>
 	</a>
-&nbsp;
-&nbsp;
 	<a href="https://github.com/PopovAleksey">
 		<img src="https://github-readme-stats.vercel.app/api?username=PopovAleksey&show_icons=true&theme=prussian&hide_border=true"/>
 	</a>

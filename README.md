@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/PopovAleksey">
-		<img src="https://readme-typing-svg.herokuapp.com?color=BDDFFF&lines=Welcome+to+Oleksii+Popov's+profile!&center=true&width=450&height=55"/>
+		<img src="https://readme-typing-svg.herokuapp.com?color=BDDFFF&lines=Welcome+to+my+profile!&center=true&width=450&height=55"/>
 	</a>
 </p>
 

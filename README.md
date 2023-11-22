@@ -1,23 +1,14 @@
 <p align="center">
-	<a href="https://github.com/PopovAleksey">
+	<a href="https://github.com/OleksiiPopovDev">
 		<img src="https://readme-typing-svg.herokuapp.com?color=BDDFFF&lines=Welcome+to+my+profile!&center=true&width=450&height=55"/>
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/PopovAleksey">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=PopovAleksey&theme=prussian&hide_border=true&stroke=0000"/>
+	<a href="https://github.com/OleksiiPopovDev">
+		<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksiiPopovDev&theme=prussian&hide_border=true&stroke=0000"/>
 	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/PopovAleksey">
-		<img src="https://github-readme-stats.vercel.app/api?username=PopovAleksey&show_icons=true&theme=prussian&hide_border=true"/>
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/PopovAleksey">
-		<img src="https://activity-graph.herokuapp.com/graph?username=PopovAleksey&bg_color=172f45&color=bddfff&line=38a0ff&point=FFFFFF&hide_border=true"/>
+	<a href="https://github.com/OleksiiPopovDev">
+		<img width="45%" src="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=prussian&hide_border=true"/>
 	</a>
 </p>

@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/OleksiiPopovDev">
-		<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksiiPopovDev&theme=prussian&hide_border=true&stroke=0000"/>
-	</a>
-	<a href="https://github.com/OleksiiPopovDev">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=prussian&hide_border=true"/>
-	</a>
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksiiPopovDev&theme=prussian&hide_border=true&stroke=0000"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=prussian&hide_border=true"/>
 </p>

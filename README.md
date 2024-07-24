@@ -74,21 +74,21 @@ I firmly believe that great projects can only be created by a cohesive team, and
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=onedark&hide_border=true#gh-dark-mode-only"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=github_dark_dimmed&hide_border=true#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=onedark&hide_border=true#gh-dark-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=github_dark_dimmed&hide_border=true#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=onedark&hide_border=true#gh-dark-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=github_dark_dimmed&hide_border=true#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />

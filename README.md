@@ -1,16 +1,10 @@
 ![](https://readme-typing-svg.herokuapp.com?color=BDDFFF&lines=Hi!%20My%20name%20is%20Oleksii&center=true&width=450&height=55)
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=prussian&hide_border=true#gh-dark-mode-only)
-![Oleksii's GitHub](https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=prussian&hide_border=true#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=prussian&hide_border=true#gh-dark-mode-only)
+Experienced Web Developer & Team Lead | Passionate about Building High-Quality Projects in Cohesive Teams | Over 11 Years of Expertise in Full-Stack Development
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
-![Oleksii's GitHub](https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
-
-
-![](https://komarev.com/ghpvc/?username=OleksiiPopovDev&style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=OleksiiPopovDev&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-popov-developer/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -60,3 +54,25 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=prussian&hide_border=true#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=OleksiiPopovDev&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=prussian&hide_border=true#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OleksiiPopovDev&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=prussian&hide_border=true#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiPopovDev&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
+</picture>

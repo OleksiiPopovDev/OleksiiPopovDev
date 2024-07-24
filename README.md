@@ -1,14 +1,33 @@
-![](https://readme-typing-svg.herokuapp.com?color=BDDFFF&lines=Hi!%20My%20name%20is%20Oleksii&center=true&width=450&height=55)
+## 👋 Hi! My name Oleksii, I'm Software Engineer
+<p>
+• Over <b>11</b> Years of Expertise in Full-Stack Development<br />
+• Experienced Web Developer & Team Lead<br />
+• Passionate about Building High-Quality Projects in Cohesive Teams<br />
+</p>
 
-Experienced Web Developer & Team Lead | Passionate about Building High-Quality Projects in Cohesive Teams | Over 11 Years of Expertise in Full-Stack Development
+## About me
+___
+<p style="text-align: justify;">
+I am using leveraging my technical skills and leadership abilities to create impactful solutions that address real-world challenges. With a strong background in both front-end and back-end development, I am adept at navigating the complexities of modern web technologies to deliver seamless and user-friendly experiences.
+</p>
+<p style="text-align: justify;">
+Throughout my career, I have successfully led projects from concept to completion, working closely with cross-functional teams to ensure alignment with business objectives. My commitment to continuous learning and improvement drives me to stay updated with the latest industry trends and best practices.
+</p>
+<p style="text-align: justify;">
+I firmly believe that great projects can only be created by a cohesive team, and that 70% of success lies within the team's synergy and collaboration.
+</p>
 
+### Social Media
+___
 ![Views](https://komarev.com/ghpvc/?username=OleksiiPopovDev&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-popov-developer/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OleksiiPopovDev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Oleksii-Popov/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001690846000)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oleksii.popov.dev/)
 
+### Languages & Frameworks
+___
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,6 +58,8 @@ Experienced Web Developer & Team Lead | Passionate about Building High-Quality P
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### Tools & Hobbies
+___
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

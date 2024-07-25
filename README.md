@@ -1,19 +1,14 @@
 ## 👋 Hi! My name Oleksii, I'm Software Engineer
-<p>
-• Over <b>11</b> Years of Expertise in Full-Stack Development<br />
-• Experienced Web Developer & Team Lead<br />
-• Passionate about Building High-Quality Projects in Cohesive Teams<br />
-</p>
-
-## 
-<p align="center">
-
 ![Views](https://komarev.com/ghpvc/?username=OleksiiPopovDev&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-popov-developer/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OleksiiPopovDev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Oleksii-Popov/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001690846000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oleksii.popov.dev/)
+<p>
+• Over <b>11</b> Years of Expertise in Full-Stack Development<br />
+• Experienced Web Developer & Team Lead<br />
+• Passionate about Building High-Quality Projects in Cohesive Teams<br />
 </p>
 
 ## About me

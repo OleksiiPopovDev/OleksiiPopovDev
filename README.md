@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001690846000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oleksii.popov.dev/)
 <p>
-• Over <b>11</b> Years of Expertise in Full-Stack Development<br />
+• Over <b>12</b> Years of Expertise in Full-Stack Development<br />
 • Experienced Web Developer & Team Lead<br />
 • Passionate about Building High-Quality Projects in Cohesive Teams<br />
 </p>
